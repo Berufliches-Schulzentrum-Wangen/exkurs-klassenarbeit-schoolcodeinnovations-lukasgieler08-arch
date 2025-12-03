@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21931139)
 # Web Project Dynamic
 
 Ein modernes Ausbildungs-Template für **GitHub Classroom**: Vom ersten HTML-Grundgerüst bis zur vollständigen Webanwendung mit React, PHP, Python (Flask), JavaScript, CSS und MySQL-Datenbankanbindung. 
